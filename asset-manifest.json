@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.953cc77d.chunk.css",
+  "main.js": "/static/js/main.e6d68db2.chunk.js",
+  "main.js.map": "/static/js/main.e6d68db2.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a28aa304.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a28aa304.js.map",
+  "static/css/2.5a8f7d74.chunk.css": "/static/css/2.5a8f7d74.chunk.css",
+  "static/js/2.2756847f.chunk.js": "/static/js/2.2756847f.chunk.js",
+  "static/js/2.2756847f.chunk.js.map": "/static/js/2.2756847f.chunk.js.map",
+  "static/js/3.9c74acd6.chunk.js": "/static/js/3.9c74acd6.chunk.js",
+  "static/js/3.9c74acd6.chunk.js.map": "/static/js/3.9c74acd6.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.35ecb10116c7c0daf4beb0aaf53161b5.js": "/precache-manifest.35ecb10116c7c0daf4beb0aaf53161b5.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.5a8f7d74.chunk.css.map": "/static/css/2.5a8f7d74.chunk.css.map",
+  "static/css/main.953cc77d.chunk.css.map": "/static/css/main.953cc77d.chunk.css.map",
+  "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+  "static/media/star_wars_logo2.png": "/static/media/star_wars_logo2.5c100dd7.png",
+  "static/media/star_wars_main.png": "/static/media/star_wars_main.6fae9640.png"
+}
